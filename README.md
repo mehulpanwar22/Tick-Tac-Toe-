@@ -1,8 +1,7 @@
 # Tick-Tac-Toe-
+Tick-Tac-Toe is a simple game project made in python 
 
-A simple code to play the game of tick tac toe. 
-
-How to play -- 
+## How to play -- 
 
 1. Run the code.
 2. Player 1 has to enter a number between 1-9 to mark his 'X' on the board. 
